@@ -1,6 +1,7 @@
 # Twitter-Data
 
 A Brief Tutorial on Accessing Twitter Data 
+
 Authors: Yusra Farooqui
 
 This is a git repository to release and share the code from the article: Using Python to retrieve data from Twitter. The is a simple and straightforward repository, used as a means for a starting point for further scientific analysis.
