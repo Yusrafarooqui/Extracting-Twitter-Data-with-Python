@@ -1,0 +1,4 @@
+
+#twitter App - external
+tweepy
+emoji
