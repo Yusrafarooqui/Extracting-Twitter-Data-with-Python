@@ -5,12 +5,6 @@ Created on Sun May 15 13:37:56 2018
 @author: Yusra
 """
 
-import tweepy
-from tweepy import OAuthHandler
-from IPython.display import display
-from tweepy import Stream
-from tweepy.streaming import StreamListener
-import emoji
 
 consumer_key = ''
 consumer_secret = ''
