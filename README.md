@@ -14,4 +14,4 @@ The code is written in iPython 3.5.2 and should be compatible with other version
 5.	Searching tweets with Emojis
 
 For a detailed overview of the project please visit my website: 
-https://sites.google.com/view/yusrafarooqui/projects-portfolio/twitter-text-analysis-using-python
+https://www.yusrafarooqui.com/projects-portfolio/twitter-text-analysis-using-python
